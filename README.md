@@ -1,2 +1,2 @@
 # js_gen_dart
-Docker container to creae dart lib for easy Dart-JavaScript interoperability 
+Docker container to create dart lib for easy Dart-JavaScript interoperability 
